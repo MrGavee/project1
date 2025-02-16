@@ -1,0 +1,31 @@
+.my-header{
+    border-bottom: 5px solid goldenrod;
+    background-color: grey;
+    
+}
+.my-header h1 {
+    color: goldenrod;
+}
+.my-header img {
+    width: 50px;
+}
+.main section .my-image{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    border: 5px solid goldenrod;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin: auto;
+}
+.main section h1{
+    width: 200px;
+    border: 3px solid goldenrod;
+    background-color: gray;
+    color: white;
+   /* margin: auto; */
+
+   border-radius: 5px;
+}
